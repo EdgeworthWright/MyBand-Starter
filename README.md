@@ -28,10 +28,10 @@ Deze fase duurt 3 weken
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | README                                            | TODO | [README.md]  (dit document)          | MarkDown |
-| B1-K1-W1 Debriefing                               | TODO | [Debriefing]                         | Markdown |
-| B1-K1-W2 Planning                                 | TODO | [Planning]                           | Markdown |
-| B1-K1-W2 Plan van aanpak                          | TODO | [Plan van Aanpak]                    | Markdown of Word/RTF|
-| B1-K1-W2 User stories                             | TODO | [User Stories]                       | Markdown of Word/RTF|
+| B1-K1-W1 Debriefing                               | TODO | [Debriefing](https://github.com/EdgeworthWright/MyBand-Starter/blob/master/doc/debriefing.docx)                                                                             | Word |
+| B1-K1-W2 Planning                                 | TODO | [Planning]                           | Word |
+| B1-K1-W2 Plan van aanpak                          | TODO | [Plan van Aanpak](https://github.com/EdgeworthWright/MyBand-Starter/blob/master/doc/project%20plan.docx)                    | Excel  |
+| B1-K1-W2 User stories                             | TODO | [User Stories](https://github.com/EdgeworthWright/MyBand-Starter/blob/master/doc/userstories.xlsx)                       | Markdown of Word/RTF|
 | B1-K1-W2 Functioneel ontwerp                      | TODO | [FO]                                 | Markdown of Word/RTF|
 | B1-K1-W2 Flowchart                                | TODO | [Flow]                               | Afbeelding(en) of geexporteerd uit http://draw.io |
 | B1-K1-W2 Urenschatting                            | TODO | [Urenschatting]                      | Markdown |
