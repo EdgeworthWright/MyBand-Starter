@@ -35,7 +35,7 @@ Deze fase duurt 3 weken
 | B1-K1-W2 Functioneel ontwerp                      | TODO | [FO](https://github.com/EdgeworthWright/MyBand-Starter/blob/master/doc/FO.docx)                                 | Word|
 | B1-K1-W2 Flowchart                                | TODO | [Flow]                               | Afbeelding(en) of geexporteerd uit http://draw.io |
 | B1-K1-W2 Urenschatting                            | TODO | [Urenschatting]                      | Markdown |
-| B1-K1-W2 Wireframes en/of Interactief prototype   | TODO | [axShare]                            | Axshare link of link naar ander online prototype tool |
+| B1-K1-W2 Wireframes en/of Interactief prototype   | TODO | [online](25890.hosts2.ma-cloud.nl/MyBand/private/design/) [bestand](https://github.com/EdgeworthWright/MyBand-Starter/blob/master/doc/wireframes.rp)                             | Online link of bestand |
 | B1-K1-W2 Sfeer impressie / schermontwerpen        | TODO | [Design]                             | Afbeeldingen |
 
 [Kwalificatiedossier]: https://kwalificaties.s-bb.nl/Handlers/DocumentLibrary.ashx?id=276758
