@@ -7,8 +7,8 @@
  * Geeft de gegevens aan de "view" laag (HTML template) om weer te geven
  *
  */
-class HomeController {
-	function homepage(){
-		include 'private/views/home.php';
+class ContactController {
+	function contact(){
+		include 'private/views/contact.php';
 	}
 }

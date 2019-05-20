@@ -1,14 +1,14 @@
 <?php
 /**
- * Class HomeController
+ * Class EventController
  *
- * Deze handelt de logica van de homepage af
+ * Deze handelt de logica van ALLE agenda functionaliteit af
  * Haalt gegevens uit de "model" laag van de website (de gegevens)
  * Geeft de gegevens aan de "view" laag (HTML template) om weer te geven
  *
  */
-class HomeController {
-	function homepage(){
-		include 'private/views/home.php';
+class TourController {
+	function tour(){
+		include 'private/views/tour.php';
 	}
 }
