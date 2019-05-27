@@ -1,0 +1,64 @@
+@media only screen and (max-width: 414px)
+  .hideOnSmall
+    display: none
+
+  .hideOnBig
+    display: block
+    position: relative
+    max-width: 100%
+    text-align: center
+
+    img
+      max-width: 200px
+
+
+  .video
+    padding-bottom: 1em
+
+
+  .homepage
+    display: block
+
+
+  .latestVideos
+    text-align: center
+    position: relative
+    right: 20%
+    margin-bottom: 3em
+
+    a
+      position: relative
+      left: 0%
+
+  .tourpage
+    li
+      background: rgba(0,0,0,0.16)
+      flex-wrap: wrap
+      padding-bottom: 7em
+      border-radius: .5em
+      text-align: center
+      max-height: 210px
+      &:hover
+        background: rgba(0,0,0,0.16)
+        .tourdate
+          transform: scale(1)
+    .tourtickets
+      flex: 0 0 100%
+      text-align: center
+      a
+        padding: .3em 2em
+        &:hover
+          transform: rotate(0)
+          transform: scale(1)
+
+  .aboutContent
+    display: block
+
+  .contactForm
+    max-width: 50%
+    
+    input
+      width: 10em
+      height: 3em
+    textarea
+      width: 10em

@@ -4,10 +4,10 @@ index
 tour
 
 
-about-grumps
+aboutgrumps
 
 
-about-me
+aboutme
 
 
 contact
@@ -15,3 +15,5 @@ contact
 
 search
 
+
+cms

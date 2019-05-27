@@ -34,13 +34,13 @@
  * Lees vooral de documentatie op http://altorouter.com/
  *
  */
-require '../private/includes/AltoRouter.php';
+require 'private/includes/AltoRouter.php';
 /**
  * Verder willen we nog wat andere zaken instellen en goed zetten
  * Dit staat in het bestand private/includes/init.php
  */
-$CONFIG = require '../private/includes/config.example.php';
-require '../private/includes/init.php';
+$CONFIG = require 'private/includes/config.example.php';
+require 'private/includes/init.php';
 $router = new AltoRouter();
 //Als jouw public folder niet te zien is als je naar http://localhoist gaat stel dan het juiste basePath in (pas dit pad aan naar jouw situatie)
 // $router->setBasePath('/bewijzenmap/periode1.4/bap/MyBandStarter/public');
@@ -49,9 +49,12 @@ $router = new AltoRouter();
  * We vertellen de router welke url naar welk stukje code (de controller) moet worden doorgestuuurd.
  */
 $router->map( 'GET', '/', 'HomeController#homepage' );
-$router->map( 'GET', '/evenementen', 'EventsController#overview' );
-$router->map( 'GET', '/onze-huisjes', 'FacilitiesController#housesOverview' );
-$router->map( 'GET', '/over-ons', 'PageController#aboutUs' );
+$router->map( 'GET', '/tour', 'TourController#tour' );
+$router->map( 'GET', '/about-grumps', 'AboutGrumpsController#aboutGrumps' );
+$router->map( 'GET', '/about-me', 'AboutMeController#aboutMe' );
+$router->map( 'GET', '/contact', 'ContactController#contact' );
+$router->map( 'GET', '/search', 'SearchController#search' );
+$router->map( 'GET', '/cms', 'CmsController#cms' );
 // Daarna vragen we $router of de huidige URL getmatcht kan worden.
 $match = $router->match();
 /**
