@@ -1,6 +1,6 @@
 ## Titel van jouw website
 
-Wellicht waar alles echt op komt: https://github.com/EdgeworthWright/MyBand
+Voor updates op de site: https://github.com/EdgeworthWright/MyBand
 
 
 www.mijnliveomgeving.com is een website van (..jouw naam..) waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
